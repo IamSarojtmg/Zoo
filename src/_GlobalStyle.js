@@ -7,7 +7,7 @@ const GlobalStyle = createGlobalStyle`
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    box-sizing: none;
     text-decoration: none;
     list-style: none;
 }
